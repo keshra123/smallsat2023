@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include<string.h>
 
-char pwd[25] = "ssrluga23";
+char pwd[25] = "555555";
 bool passwordcorrect = false;
 
 void passwordcheck(){
